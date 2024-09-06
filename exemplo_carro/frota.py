@@ -4,7 +4,7 @@ class Carro:
     cor : str
     __odometro = 0.0
     __motor_on = False
-#teste
+#teste teste
     def __init__(self, modelo : str, marca : str, cor : str,
                        odometro : float, motor : bool):
         self.modelo = modelo
